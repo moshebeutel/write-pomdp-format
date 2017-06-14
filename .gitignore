@@ -1,0 +1,14 @@
+
+*.opensdf
+*.sdf
+*.obj
+*.exe
+*.ilk
+*.log
+*.tlog
+*.idb
+*.pdb
+*.suo
+*.POMDP
+*.suo
+*.user
